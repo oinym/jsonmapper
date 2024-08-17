@@ -5,7 +5,6 @@ import java.io.File;
 import java.io.IOException;
 
 import static com.oinym.JSONHanlder.*;
-import static org.junit.Assert.assertTrue;
 
 public class JsonTest {
     String userDirectory = new File("").getAbsolutePath();
